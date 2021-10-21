@@ -13,10 +13,9 @@ body {
   min-height: 100vh;
   margin: 0;
 
-  background-image: url("../img/BertzBiz.Logo.jpg");
+  background-image: url("../img/171.BertzBiz.Logo.svg");
   background-repeat: no-repeat;
   background-position: center center;
-  background-attachment: fixed; 
-  background-size: auto;
+  background-attachment: fixed;
+  background-size: 400px auto;
 }
-
