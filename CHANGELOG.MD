@@ -10,9 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - All. This is the initial release and deployment on Github pages
 
-### Changed
-- item 1
-- item 2
+## [1.1.0] - 2021-10-23
+### Added
+- Light and dark mode
 
-### Removed
--
+### Changed
+- Title
