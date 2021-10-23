@@ -13,9 +13,17 @@ body {
   min-height: 100vh;
   margin: 0;
 
-  background-image: url("../img/171.BertzBiz.Logo.dark.svg");
+  background-image: url("../img/171.BertzBiz.Logo - dark.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
   background-size: 400px auto;
+}
+
+@media screen and (prefers-color-scheme: light) {
+  body {
+    background-color: white;
+    color: #032643;
+    background-image: url("../img/171.BertzBiz.Logo - light.svg");
+  }
 }
