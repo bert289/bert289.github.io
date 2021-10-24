@@ -27,3 +27,9 @@ body {
     background-image: url("../img/171.BertzBiz.Logo - light.svg");
   }
 }
+
+@media screen and (max-width: 400px) {
+  body {
+    background-size: 200px auto;
+  }
+}
